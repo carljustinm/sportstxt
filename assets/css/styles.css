@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+
 @font-face {
     font-family: 'Goldplay';
     src:   
@@ -8,7 +11,7 @@
 }
 
 body {
-    font-family: 'Goldplay';
+    font-family: 'Goldplay', 'Roboto', 'Arial', sans-serif;
 }
 
 .bg-image {
